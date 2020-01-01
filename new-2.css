@@ -22,6 +22,15 @@
 	clear: both;
 	display: block;
 }
+
+
+.wrapper{
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+
+
 .header-top-height { height: 30px;}
 .header-height { height: 200px;}
 .menu-height{ height: 50px;}
